@@ -33,10 +33,10 @@ img {
         
 }
 img:hover {
-  -webkit-transform: scale(1.5,1.5);
+  -webkit-transform: scale(1.4,1.4);
 }
 .center {
   display: block;
-  width: 30%;
-  height: 30%;
+  width: 20%;
+  height: 20%;
 }
